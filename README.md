@@ -1,4 +1,4 @@
-# exer_da
+# exer_day1
 
 Exercicios com flutter diego antunes
 
